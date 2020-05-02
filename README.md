@@ -3,7 +3,7 @@ for node-js with mongo db installed
 
 
 # Signing in
-  Sign in to goorm.io with a valid email address
+  Sign in to goorm.io with a valid email address <br/>
   Then go to goormide
 
 

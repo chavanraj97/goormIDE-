@@ -16,3 +16,11 @@ click on new container->
 
 Your container is ready to use
 
+
+# create files and folders inside container
+  a file named main.js already exists inside your container -> 
+    double click on it you will see editor opening on the right and below you will see a terminal
+      type any code you wanna run in node js -> save it ->
+        go to the terminal and type - node file_name.js
+          for more info on files and folder creation in container watch this video - https://youtu.be/T3h0JivOir8?t=44
+
